@@ -22,8 +22,6 @@ nav{
 	height: 188px;
 }
 .layout-wrap{
-	/*width: 1120px;
-	margin: 0 auto;*/
     margin-left: 8%;
     margin-right: 8%;
 }
@@ -223,6 +221,7 @@ nav{
     position: absolute;
     background-repeat: no-repeat;
     background-position: center;
+    color: transparent;
 }
 
 .settings{
